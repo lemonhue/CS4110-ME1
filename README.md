@@ -1,2 +1,9 @@
-# CS4110-ME1
-Alan Turing’s “Computing Machinery and Intelligence” (1950) reaction paper.
+Reaction Paper on Alan Turing’s “Computing Machinery and Intelligence”
+
+Alan Turing’s paper, “Computing Machinery and Intelligence,” is one of the most important works in the history of artificial intelligence. In the paper, Turing changes the question, “Can machines think?” into something more practical: “Can machines imitate human behavior?” To answer this, he introduced the Turing Test, where a machine tries to act so much like a human that someone interacting with it can’t tell the difference. This idea was simple but genius, as it focused on what a machine can do rather than trying to define what “thinking” actually is.
+
+Turing also addressed objections that people might have about machine intelligence. For example, some people argued that machines can’t think because they don’t have a soul or emotions, while others thought that machines could never be as creative or self-aware as humans. Turing responded by saying that machines don’t need to think or feel the way humans do. They just need to act intelligently. His arguments showed that he had thought deeply about what it means to be intelligent, even if it looks different for machines.
+
+While Turing’s ideas were groundbreaking, there are some limits to the Turing Test. For example, it doesn’t measure things like emotions, creativity, or moral decision-making, which are also part of human intelligence. Plus, Turing thought machines would reach human-level intelligence much faster than they actually have. Today, even though we have advanced AI, we’re still far from creating machines that can truly think or feel like humans.
+
+Overall, Turing’s paper is still really important because it challenges us to think about intelligence in new ways. Even though technology has changed a lot since his time, the questions he raised are just as relevant now. His work laid the foundation for AI and continues to inspire people to explore what machines can do and what it really means to be intelligent.
